@@ -2,7 +2,7 @@
 
 This project contains a reusable AI skill named `skill-package-auditor`. The skill helps an agent audit whether a local repository follows the expected reusable AI skill assignment structure before submission.
 
-Video walkthrough: TODO - replace with Zoom/YouTube/Vimeo link before submission
+Video walkthrough: https://youtu.be/-RgQ75ZWzNU
 
 ## What The Skill Does
 
