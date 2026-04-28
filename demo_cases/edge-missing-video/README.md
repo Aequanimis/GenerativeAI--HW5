@@ -1,1 +1,5 @@
-<!-- TODO: Add a sample skill repository that is missing the required video link. -->
+# Edge Missing Video Demo
+
+This demo repository is almost ready for submission.
+
+Video link will be added later.
